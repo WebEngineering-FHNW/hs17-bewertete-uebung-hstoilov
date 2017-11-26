@@ -2,9 +2,13 @@
 
 ## Commit Proposal
 
-Matriculation Number: <to be filled by student>
+Matriculation Number: 16-666-141
 
 Project idea short description: 
+
+A webpage dedicated to the IP-3/4 project "Wanderlust" that will 
+implement a registration and log-in functionality with a valid email-address
+and password.
 
 
 ## Project confirmation
