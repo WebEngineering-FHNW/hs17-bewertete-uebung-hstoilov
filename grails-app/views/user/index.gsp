@@ -51,7 +51,7 @@
         </div>
     </div>
 
-    <img src="/images/home.jpg" alt="Home Sweet Home">
+    <img src="/images/apple-touch-icon-retina.png" alt="Home Sweet Home">
 </g:if>
 
 <g:else>

@@ -24,8 +24,15 @@ How to test the project:  (if other than `grailsw test-app`)
 Project description:      (if other than `/index.html`)
 
 External contributions:
+External contributions are mentioned in the code. Following are user:
+
+- using logic of application inspired by: https://de.slideshare.net/moniguna/grails-simple-login-presentation
+- bootstraps for sign-in: https://bootsnipp.com/snippets/featured/login-amp-signup-forms-in-panel
+- bootstraps for navigation: https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
 
 Other comments: 
+Could not display a picture. There is a problem with the path.
+
 
 I'm particular proud of:
 
