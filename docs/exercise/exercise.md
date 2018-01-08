@@ -37,6 +37,13 @@ Could not display a picture. There is a problem with the path.
 I'm particular proud of:
 
 
-## Project grading 
+## Project grading p
 
-< to be filled by lecturer>
+Description.html not given.
+Application works, some references are not properly resolved.
+
+You make good use of Web MVC and the server session.
+Hard-coded credentials (no DB storage of user/pw) is disappointing.
+
+Total Grade: 4.1
+
